@@ -1,5 +1,5 @@
 # Fase 1: 01 Producto Blueprint
-*Este documento define la indentidad del producto antes de diseñarlo o desarrollarlo. Aquí se establecen la visión, el problema que resuelve, los objetivos, los principios y las decisiones fundamentales que servirán como guía durante todo el proyecto.*
+*Este documento define la identidad del producto antes de diseñarlo o desarrollarlo. Aquí se establecen la visión, el problema que resuelve, los objetivos, los principios y las decisiones fundamentales que servirán como guía durante todo el proyecto.*
 
 > **Preguntas que responde:**
 > ¿Qué estamos construyendo y por qué existe?
@@ -57,7 +57,7 @@ No es:
 - Corporativo.
 - Agresivo.
 - Obsesionado con la productividad.
-- Lleno de metricas vacias.
+- Lleno de métricas vacías.
 
 **Nuestra personalidad**
 - Tranquilo

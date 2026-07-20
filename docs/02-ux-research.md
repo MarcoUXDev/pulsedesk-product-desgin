@@ -1,12 +1,12 @@
 # 02 UX Research
-*En este documento tiene como objetivo comprender a las personas para las que estamos diseñando. Reune observaciones, hipótesis e investigación sobre sus comportamientos, necesidades, ojetivos y frustraciones para tomar decisiones de diseño basadas en el usuario y no en suposiciones.*
+*En este documento tiene como objetivo comprender a las personas para las que estamos diseñando. Reúne observaciones, hipótesis e investigación sobre sus comportamientos, necesidades, objetivos y frustraciones para tomar decisiones de diseño basadas en el usuario y no en suposiciones.*
 
 > **Pregunta que responde:**
 > ¿Para quién estamos construyendo este producto y cómo vive actualmente el problema?
 
 
 ## 1. Contexto del mercado
-> Los pequeños negocios creativos suelen operar con equipos reducidos, donde una misma persona puede desempeñar varios roles, como atención al cliente, gestión de proyectos, ventas y ejecución del trabajo. Esto provoca que la información termine distribuida entre distintas herramientas y que gran parte del tiempo se invierta en recuperar el contexto antes de continuar con un proyecto, afectando la origanización y la continuidad del trabajo.
+> Los pequeños negocios creativos suelen operar con equipos reducidos, donde una misma persona puede desempeñar varios roles, como atención al cliente, gestión de proyectos, ventas y ejecución del trabajo. Esto provoca que la información termine distribuida entre distintas herramientas y que gran parte del tiempo se invierta en recuperar el contexto antes de continuar con un proyecto, afectando la organización y la continuidad del trabajo.
 
 ## 2. Público objetivo
 **Mercado**
@@ -31,13 +31,13 @@
 - Producción audiovisual
 
 ## 3. Segmentación
-Aquí calisificamos por necesidad, no por profesión.
+Aquí clasificamos por necesidad, no por profesión.
 
-| Segmento | Característicias | Objetivo principal |
+| Segmento | Características | Objetivo principal |
 |:---------|:----------------:|-------------------:|
 | Freelancer creativo | Trabaja solo y administra todo | Tener el contexto de cada cliente sin cambiar de herramienta|
 | Agencia pequeña | 2 a 15 personas | Coordinar proyectos y mantener la información organizada |
-| Estudio especializado | Equipo reducido con servicios especificos | Centralizar comunicación, archivos y avances por clientes|
+| Estudio especializado | Equipo reducido con servicios específicos | Centralizar comunicación, archivos y avances por clientes|
 
 ## 4. Ecosistema de herramientas
 
@@ -48,7 +48,7 @@ Aquí calisificamos por necesidad, no por profesión.
 | Tareas | Trello |
 | Calendario | Google Calendar |
 | Archivos | Google Drive |
-| Notas | Notios |
+| Notas | Notion |
 | Cotizaciones | Word / Excel / PDF|
 
 ## 5. Fichas de investigación
@@ -57,7 +57,7 @@ Aquí calisificamos por necesidad, no por profesión.
 ## 6. Hallazgos principales
 [Ir a los Hallazgos](./02.2-hallazgos-de-investigacion.md)
 
-### Sintesis de los hallazgos
+### Síntesis de los hallazgos
 > - La investigación muestra que el problema principal no es la falta de herramientas, sino la fragmentación del contexto de sus clientes.  
 > - Los usuarios dedican una parte importante de su jornada a reconstruir información distribuida entre chats, correos, documentos, calendarios y notas antes de poder trabajar.   
 > - Más que buscar nuevas funcionalidades, necesitan un forma de recuperar rápidamente el estado actual de cada cliente, reducir la incertidumbre y terminar el día con tranquilidad de que sus proyectos avanzan conforme a lo planeado.
@@ -65,20 +65,20 @@ Aquí calisificamos por necesidad, no por profesión.
 
 ## 7. Pain-points
 ### Pain Point 01
-#### Reconstriccióin manual del contexto
+#### Reconstrucción manual del contexto
 Problema   
 Antes de comenzar a trabajar, el usuario necesita consultar varias herramientas para recordar en qué estado quedó cada proyecto.   
 
 Impacto   
-Pierde tiempo antes de comenzar a producir y aumenta la posiblidad de olvidar información importante.
+Pierde tiempo antes de comenzar a producir y aumenta la posibilidad de olvidar información importante.
 
 ### Paint Point 02
 #### Información distribuida
 Problema  
-La información relavente del cliente está repartida entre chats, correos, documentos y otras herramientas.  
+La información relevante del cliente está repartida entre chats, correos, documentos y otras herramientas.  
 
 Impacto  
-Encontrar acuerdos o decisiones importantes requiere búsquedas repetiticas.
+Encontrar acuerdos o decisiones importantes requiere búsquedas repetitivas.
 
 ### Pain Point 03
 #### Confirmar antes de avanzar
@@ -91,7 +91,7 @@ El trabajo se detiene mientras se confirma información que debería estar dispo
 ### Paint Point 04
 #### Dependencia de WhatsApp como memoria del proyecto
 Problema  
-Los acuerdos importantes terminan almacenados dentro de conversaciones de WahtsApp.  
+Los acuerdos importantes terminan almacenados dentro de conversaciones de WhatsApp.  
 
 Impacto  
 Buscar información consume tiempo y aumenta el riesgo de pasar por alto decisiones importantes.
@@ -110,7 +110,7 @@ Problema
 Las fechas son el principal mecanismo para saber si un proyecto está bajo control.  
 
 Impacto  
-Cuando las fechas están dispersas o desactualizads, el usuario pierde confianza en la planificación.
+Cuando las fechas están dispersas o desactualizadas, el usuario pierde confianza en la planificación.
 
 ### Pain Point 07
 #### Seguimiento financiero separado del proyecto
@@ -118,7 +118,7 @@ Problema
 El estado de pagos y cobros suele gestionarse fuera del flujo principal del proyecto.
 
 Impacto  
-Es fácil perder la visibilidad sobre pagos pendiente que afectan la continuidad del trabajo.a
+Es fácil perder la visibilidad sobre pagos pendiente que afectan la continuidad del trabajo.  
 
 ### Pain Point 08
 #### Falta de evidencia clara de progreso
@@ -183,7 +183,7 @@ para mantener el proyecto avanzado.
 
 ### Job 04
 Cuando necesito continuar un proyecto,  
-quiero consuiltar rápidamente el historial de acuerdos,  
+quiero consultar rápidamente el historial de acuerdos,  
 para seguir trabajando con seguridad sin volver a revisar conversaciones.
 
 ### Job 05
@@ -196,7 +196,7 @@ cuando comienzo mi jordana o retomo un proyecto,
 quiero conocer las actividades y fechas que requieren mi atención,  
 para mantener el proyecto bajo control y no pasar por alto ningún compromiso importante.
 
-### Jobo 07
+### Job 07
 Cuando inicio mi jornada   
 quiero conocer si existe algún pago o cobro pendiente relacionado con mis proyectos,  
 para tomar decisiones a tiempo y evitar retrasos en el trabajo.
