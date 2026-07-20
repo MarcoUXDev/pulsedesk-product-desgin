@@ -222,7 +222,132 @@ quiero saber cuál requiere mi atención primero,
 para decidir correctamente en dónde invertir mi tiempo.
 
 ## 9. Oportunidades de diseño
+> Hallazgo + Paint Point + JTBD = Oportunidad
+
+### Oportunidad 01
+**Hallazgo**  
+*Los usuario comienzan reconstruyendo el contexto*  
+**Pain Point**  
+*Pierden tiempo buscando información*  
+**JTBD**  
+*Quiero saber en qué me quedé*  
+**Oportunidad**  
+> Centralizar el contexto completo del cliente en un único espacio.
+
+### Oportunidad 02
+**Hallazgo**  
+*WhatsApp funciona como memoria del proyecto*  
+**Pain Point**  
+*Los acuerdos quedan escondidos*  
+**JTBD**  
+*Consultar rápidamente el historial*  
+**Oportunidad**  
+> Centralizar los acuerdos importantes independientemente del canal donde fueron generados.
+
+### Oportunidad 03
+**Hallazgo**  
+*Los usuarios revisan continuamente fechas*  
+**Pain Point**  
+*Temor a olvidar reuniones*  
+**JTBD**  
+*Quiero conocer mis compromisos*  
+**Oportunidad**  
+> Mostrar próximos eventos y fechas relavantes sin necesidad de consultar varias herramientas.
+
+
+### Oportunidad 04
+**Hallazgo**  
+*Los usuarios necesitan saber si ya pueden continuar*  
+**Pain Point**  
+*Esperan aprobación*  
+**JTBD**  
+*Saber si debo corregir o avanzar*  
+**Oportunidad**  
+> Hacer visible el estado de aprobación de cada actividad
+
+### Oportunidad 05
+> Visualizar todos los compromisos del día relacionados con clientes y proyectos.
+
+### Oportunidad 06
+> Mostrar las actividedes con mayor prioridad que necesitan mi pronta atención
+
+### Oportunidad 07
+> Mostrar el estatus financiero de proximos pagos, cobros o vencimientos de los proyectos.
+
+### Oportunidad 08
+> Mostrar los avances realizados durante la jornada
+
+
+### Oportunidad 09
+> Ayudar al usuario a identificar qué requiere su atención primero.
+
+
+### Oportunidad 10
+> Mostrar el siguiente paso recomendado para cada proyecto.
 
 
 ## 10. Hipótesis para validar
+> Creemos que...  
+> Porque...  
+> Lo validaremos cuando...  
 
+*Ej.*  
+*Hallazgo: Los usuarios consultan WhatsApp, correo y Calendar.*  
+*Oportunidad: Centralizar contexto.*  
+*Hipótesis*  
+> Creemos que centralizar el contexto del cliente reducirá el tiempo que los ususarios invierten reconstruyendo el estado de sus proyectos.  
+> 
+> Lo validaremos cuando los usuarios puedan responder preguntas sobre un cliente sin consultar herramientas externas.
+
+---
+
+### Hipótesis 01
+**Creemos que**  centralizar el contexto completo de cada cliente reducirá el tiempo que los usuarios invierten buscando información antes de comenzar a trabajar.  
+
+**Validaremos esta hipótesis cuando** los usuarios puedan retomar un proyecto sin consultar herramientas externas.
+
+### Hipótesis 02
+**Creemos que**  centralizar los acuerdos importantes permitirá contunuar los proyectos con mayor seguridad.  
+
+**Validaremos esta hipótesis cuando** los usuarios encuentren decisiones anteriores sin revisar conversaciones completas.
+
+### Hipótesis 03
+**Creemos que**  mostrar proximos eventos y fechas relevante disminuirá el riesgo de olvidar reuniones y entregas.  
+
+**Validaremos esta hipótesis cuando** los usuarios consulten una única agenda para organizar su jornada.
+
+### Hipótesis 04
+**Creemos que**  hacer visible el estado de aprobación de cada actividad reducirá los tiempos de espera y evitará trabajo duplicado.  
+
+**Validaremos esta hipótesis cuando** los usuarios sepan inmediatamente si deben continuar o realizar cambios.
+
+### Hipótesis 05
+**Creemos que** visualizar todos los compromisis del día facilitará la planeación diaria del trabajo.  
+
+**Validaremos esta hipótesis cuando** los usuarios puedan indentificar sus compromisos son consultar otras herramientas.
+
+### Hipótesis 06
+**Creemos que**  destacar las actividades prioritarias ayudará a los usuarios a decidir qué atender primero.  
+
+**Validaremos esta hipótesis cuando** los usuarios identifiquen rápidamente las tareas mas importantes del día.
+
+
+### Hipótesis 07
+**Creemos que**  mostrar el estado financiero de pagos, cobros y vencimientos permititá anticipar problemas administrativos que afectan el avance de los proyectos.  
+
+**Validaremos esta hipótesis cuando** los usuarios puedan indentificar obligaciones financieras pendientes desde un mismo lugar.
+
+### Hipótesis 08
+**Creemos que**  mostrar el progreso realizado durante la jornada aumentará la percepción de control sobre los proyectos.  
+
+**Validaremos esta hipótesis cuando** los usuarios puedan explicar fácilmente qué avanzó el día u qué queda pendiente.
+
+### Hipótesis 09
+**Creemos que**  ayudar a identificar las actividades que requieren atención inmediata reducirá la incertidumbre al decidir qué hacer después.  
+
+**Validaremos esta hipótesis cuando** los usuarios prioricen correctamente sus tareas sin depender de multiples fuentes de información.  
+
+### Hipótesis 10
+**Creemos que** puedan continuar trabajando sin buscar información en otros canales.  
+
+**Validaremos esta hipótesis cuando** los usuarios puedan continuar trabajando sin buscar información en otros canales.
